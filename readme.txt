@@ -3,4 +3,5 @@ Git is free software under the GPL.
 Git has a mutable index called stage. 
 Git tracks changes of files.
 add something new to git push origin master
-Create a new branch is quick 
+Create a new branch is quick and simple.
+

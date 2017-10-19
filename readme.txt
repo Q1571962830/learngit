@@ -8,3 +8,4 @@ A1 BRANCH: added by michael
 Added by Bob. on 2017.10.19
 -- fix bug --
 --　current working ---
+2017.10.19: test igrnore file
